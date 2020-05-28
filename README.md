@@ -25,6 +25,7 @@ We use the same input format as the LibFM toolkit (http://www.libfm.org/).
 
 Split the data to train/test/validation files to run the codes directly (examples see data/frappe/). 
 
+## Acknowledgement
+This research is supported by the National Research Foundation, Singapore under its International Research Centres in Singapore Funding Initiative. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of National Research Foundation, Singapore.
 
-
-Last Update Date: May 11, 2017
+Last Update Date: May 28, 2020
